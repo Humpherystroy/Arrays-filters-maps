@@ -1,0 +1,8 @@
+Why would I use the filter function?
+To help get you to the exact info you need.
+Why would I use the map function?
+If you want to reach a certain part of an array, [1,2,3,4]
+[2]
+Why would I use the reduce function?
+To shrink down info. example [1,2,3,4,5]
+[15]
